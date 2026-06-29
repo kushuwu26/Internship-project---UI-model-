@@ -1,1 +1,1 @@
-# Internship-project---UI-model-
+# Internship project UI-model
